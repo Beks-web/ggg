@@ -1,0 +1,139 @@
+body {
+  height: 100vh;
+}
+
+.all {
+  display: flex;
+}
+.general {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.result {
+  background: radial-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+  text-align: center;
+  color: aliceblue;
+  border-radius: 20px;
+  width: 320px;
+}
+.h1 {
+  font-style: italic;
+  font-weight: 90;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: rgba(64, 86, 206, 0.633);
+  border-radius: 50%;
+  margin-left: 60px;
+}
+
+.great h2 {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.ooo {
+  font-size: 34px;
+}
+.kkk {
+  margin-top: -20px;
+}
+.ggg {
+  background-color: antiquewhite;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.rer {
+  background-color: rgba(250, 2, 2, 0.221);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.rer h5 {
+  color: rgba(163, 15, 15, 0.798);
+  font-size: 15px;
+  margin-top: 20px;
+}
+.fog {
+  background-color: rgba(218, 245, 13, 0.365);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fog h5 {
+  font-size: 15px;
+  margin-top: 20px;
+  color: rgba(186, 159, 7, 0.801);
+}
+.njn {
+  background-color: rgba(0, 255, 85, 0.575);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.njn h5 {
+  font-size: 15px;
+  margin-top: 20px;
+  color: rgb(4, 58, 7);
+}
+.npl {
+  background-color: rgba(180, 8, 248, 0.273);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.npl h5 {
+  font-size: 15px;
+  margin-top: 20px;
+  color: rgb(132, 0, 255);
+}
+.ggg {
+  display: flex;
+  gap: 3rem;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 320px;
+}
+.ppp {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.button {
+  width: 190px;
+  border-radius: 20px;
+  background-color: rgb(38, 23, 202);
+  height: 40px;
+}
+.buttonn {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.button h5 {
+  margin-top: 10px;
+  color: rgb(255, 255, 255);
+  font-family: 900;
+  font-size: 14px;
+}
